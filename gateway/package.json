@@ -1,0 +1,21 @@
+{
+  "name": "gateway",
+  "version": "1.0.0",
+  "main": "gateway_index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@apollo/gateway": "^2.1.1",
+    "@profusion/apollo-federation-upload": "^4.0.0",
+    "apollo-server": "^3.10.2",
+    "firebase-admin": "^11.0.1",
+    "graphql": "^16.6.0",
+    "graphql-upload": "^16.0.2",
+    "wait-on": "^6.0.1"
+  }
+}
