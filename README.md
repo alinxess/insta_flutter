@@ -1,19 +1,11 @@
 # insta_flutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+Built a clone of basic instagram in flutter that allow users to share their photos with others as a post.
+Posts can be liked and commented on by users. Users can follow and see the newsfeed of other users 
+that they are following. 
+Implemented an Apollo federation based microservices architecture and GraphQL API.
+Implemented firebase authentication and databases - Neo4j, MongoDB, Firebase Storage
 
 [![Output video](/out_thumbn.png)](https://drive.google.com/file/d/12TyxsefCmty0KxsG186VolmUmeSNJ6dR/view?usp=sharing) </br>
 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
