@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-[![Output video](assets/images/out_thumb1.png)](https://drive.google.com/file/d/12TyxsefCmty0KxsG186VolmUmeSNJ6dR/view?usp=sharing) </br>
+[![Output video](/out_thumbn.png)](https://drive.google.com/file/d/12TyxsefCmty0KxsG186VolmUmeSNJ6dR/view?usp=sharing) </br>
 
 
 A few resources to get you started if this is your first Flutter project:
