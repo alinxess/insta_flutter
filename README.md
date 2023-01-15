@@ -6,6 +6,7 @@ that they are following.
 Implemented an Apollo federation based microservices architecture and GraphQL API.
 Implemented firebase authentication and databases - Neo4j, MongoDB, Firebase Storage
 
+### Click and watch the video
 [![Output video](/out_thumbn.png)](https://drive.google.com/file/d/12TyxsefCmty0KxsG186VolmUmeSNJ6dR/view?usp=sharing) </br>
 
 
