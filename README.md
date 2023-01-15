@@ -1,9 +1,9 @@
 # insta_flutter
 
-Built a clone of basic instagram in flutter that allow users to share their photos with others as a post.
+Built a clone of basic instagram in flutter that allow users to share their photos with others as a post.</br>
 Posts can be liked and commented on by users. Users can follow and see the newsfeed of other users 
-that they are following. 
-Implemented an Apollo federation based microservices architecture and GraphQL API.
+that they are following. </br>
+Implemented an Apollo federation based microservices architecture and GraphQL API.</br>
 Implemented firebase authentication and databases - Neo4j, MongoDB, Firebase Storage
 
 ### Click and watch the video
