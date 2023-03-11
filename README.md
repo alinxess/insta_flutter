@@ -5,6 +5,8 @@ Posts can be liked and commented on by users. Users can follow and see the newsf
 that they are following. </br>
 Implemented an Apollo federation based microservices architecture and GraphQL API.</br>
 Implemented firebase authentication and databases - Neo4j, MongoDB, Firebase Storage.</br>
+<b>Implemented Referential Integrity like mechanism between these different databases through Apollo Federation</br>
+entity's reference resolver.</b></br>
 
 <b>Frontend</b> - is a flutter application which uses firebase authentication for users.</br>
 &</br>
